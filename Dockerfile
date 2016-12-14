@@ -7,7 +7,7 @@ MAINTAINER Christoph Görn <goern@redhat.com>
 
 ENV container docker
 ENV MATTERMOST_VERSION 3.5.1
-ENV MATTERMOST_VERSION_SHORT 340
+ENV MATTERMOST_VERSION_SHORT 351
 
 # Labels consumed by Red Hat build service
 LABEL Component="mattermost" \
