@@ -1,8 +1,8 @@
 # Mattermost for OpenShift Origin 3
 
-This is instant mattermost application for OpenShift Origin 3.
+This is instant Mattermost application for OpenShift Origin 3.
 
-The license applies to all files insinde this repository, not mattermost itself.
+The license applies to all files inside this repository, not Mattermost itself.
 
 ## Prerequisites
 
@@ -50,7 +50,9 @@ by OpenShift or use the file `db.yaml`.
 ## Usage
 
 Point your browser at `mattermost.example.com`, the first user you create will
-be an Administrator of mattermost.
+be an Administrator of Mattermost.
+
+To learn more about Mattermost, please see documentation at: https://docs.mattermost.com/
 
 
 ## Copyright
